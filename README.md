@@ -1,6 +1,6 @@
 # Final Project of Data Science in Python
 
-## Link, explanation of the notebook (Video)
+[Link, explanation of the notebook (Video)](https://youtu.be/V0qHQgJwsqo)
 
 This project consists of the realization of a notebook where the knowledge learned during the quarter of said course is revealed, the objective is to carry out a manual training of a set of data and see how these behave when implementing univariate linear regression
 
